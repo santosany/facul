@@ -1,0 +1,49 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exemplo01",
+            "request": "launch",
+            "mainClass": "Aula01.Exemplo01",
+            "projectName": "Facul_3ffe911e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exemplo02",
+            "request": "launch",
+            "mainClass": "Aula01.Exemplo02",
+            "projectName": "Facul_3ffe911e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exemplo03",
+            "request": "launch",
+            "mainClass": "Aula01.Exemplo03",
+            "projectName": "Facul_3ffe911e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exemplo04",
+            "request": "launch",
+            "mainClass": "Aula01.Exemplo04",
+            "projectName": "Facul_3ffe911e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio2",
+            "request": "launch",
+            "mainClass": "Aula01.Exercicio2",
+            "projectName": "Facul_3ffe911e"
+        }
+    ]
+}
