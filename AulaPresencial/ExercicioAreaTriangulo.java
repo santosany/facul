@@ -1,3 +1,4 @@
+package facul.AulaPresencial;
 import java.util.Scanner;
 
 public class ExercicioAreaTriangulo {
@@ -15,7 +16,7 @@ public class ExercicioAreaTriangulo {
 
     }
      public static float calculoArea(float area, float base){
-        float calculo = area * base;
+        float calculo = area * base / 2;
 
         return calculo;
      }
