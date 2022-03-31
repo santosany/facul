@@ -1,3 +1,4 @@
+package facul.AulaPresencial;
 import java.util.Scanner;
 
 public class ExercicioMediaTresNumeros {
@@ -15,7 +16,9 @@ public class ExercicioMediaTresNumeros {
 
         notaInformada.close();
 
+
     }
+    
     public static double calculoMedia(double n1, double n2, double n3){
         double calculo = (n1+n2+n3)/3;
 

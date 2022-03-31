@@ -1,3 +1,4 @@
+package facul.Aula01;
 public class Exemplo02 {
 
     public static void main(String[] args) {

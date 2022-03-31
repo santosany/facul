@@ -1,3 +1,4 @@
+package facul.AulaPresencial;
 public class ExercicioTabuada {
 
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package facul.AulaOnline04;
 import java.util.Scanner;
 
 public class EncontrarMax {
@@ -22,6 +23,7 @@ public class EncontrarMax {
             }
         }
         return maior;
+        
     }
     
     

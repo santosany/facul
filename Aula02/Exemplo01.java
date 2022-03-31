@@ -1,3 +1,4 @@
+package facul.Aula02;
 /**
  * Exemplo01
  */

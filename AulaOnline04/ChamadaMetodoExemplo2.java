@@ -1,3 +1,4 @@
+package facul.AulaOnline04;
 public class ChamadaMetodoExemplo2 {
 
     public static void main(String[] args) {

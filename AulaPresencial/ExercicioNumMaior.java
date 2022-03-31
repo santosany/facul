@@ -1,3 +1,4 @@
+package facul.AulaPresencial;
 import java.util.Scanner;
 
 public class ExercicioNumMaior {

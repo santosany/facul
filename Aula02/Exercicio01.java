@@ -1,3 +1,4 @@
+package facul.Aula02;
 import java.util.Scanner;
 
 public class Exercicio01 {

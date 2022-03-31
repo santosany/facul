@@ -1,3 +1,4 @@
+package facul.AulaOnline04;
 import java.util.Scanner;
 
 public class ChamadaMetodoExemplo5 {
